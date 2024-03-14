@@ -1,0 +1,15 @@
+{
+  "name": "homework-3-spring23",
+  "version": "1.0.0",
+  "description": "Hardhat test cases for assignment 3 in Purdue blockchain course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Palmerio",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
